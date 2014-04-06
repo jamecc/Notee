@@ -1,7 +1,7 @@
 Notee
 =====
 
-Notee Desktop Application
+Cloud Note Desktop Application
 
 Notee is a FREE note utility which can auto sync all notes to Notee server, and based on Qt Framework.
 
